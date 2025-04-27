@@ -32,8 +32,8 @@ Ensure you have the following installed:
 1️⃣ Open a terminal and run:
 ```bash
 # Clone the repository
-git clone https://github.com/ytbiilly/Monad-Testnet-Auto-Tx-Bot.git
-cd Monad-Testnet-Auto-Tx-Bot
+git clone https://github.com/airdropscatcher/Monad-Testnet-Automation.git
+cd Monad-Testnet-Automation
 
 # Install dependencies
 npm install
@@ -53,7 +53,7 @@ npm start
 1️⃣ Open **PowerShell** and run:
 ```powershell
 # Clone the repository
-git clone https://github.com/ytbiilly/Monad-Testnet-Auto-Tx-Bot.git
+git clone https://github.com/airdropscatcher/Monad-Testnet-Automation.git
 cd Monad-Testnet-Auto-Tx-Bot
 
 # Install dependencies
