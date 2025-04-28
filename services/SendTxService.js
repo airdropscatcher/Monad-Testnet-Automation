@@ -19,8 +19,8 @@ function loadWalletAddresses() {
 }
 
 function getRandomAmount() {
-  const min = config.cycles.amounts.min || 0.0001;
-  const max = config.cycles.amounts.max || 0.001;
+  const min = config.cycles.amounts.min || 1;
+  const max = config.cycles.amounts.max || 100;
   const amount = Math.random() * (max - min) + min;
   return amount.toFixed(6);
 }
