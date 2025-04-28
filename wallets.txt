@@ -1,2 +1,1 @@
-wallet_address_1
-wallet_address_2
+0x3425C15B48FE19C80CF0a9aa9Ea48bfef23019a4
